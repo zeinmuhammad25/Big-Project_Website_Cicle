@@ -1,0 +1,7 @@
+step_definitions\featureBoard.class
+step_definitions\Hooks.class
+step_definitions\RunCukesTest.class
+step_definitions\featureDocsAndFiles.class
+step_definitions\featureHomePage.class
+step_definitions\featureLogin.class
+step_definitions\featureGroupChat.class
